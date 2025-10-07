@@ -1,0 +1,6 @@
+{
+  "regions": ["iad1"],
+  "functions": {
+    "pages/api/responses.js": { "runtime": "nodejs20.x" }
+  }
+}
